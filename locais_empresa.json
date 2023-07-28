@@ -1,0 +1,46 @@
+{
+    "1": [
+        "01 - USINAGEM",
+        "02 - EIXO COMANDO",
+        "03 - 4000 METROS",
+        "04 - RETÍFICA",
+        "05 - REBARBAÇÃO",
+        "06 - TRAT. TÉRMICO",
+        "07 - FERRAMENTARIA",
+        "08 - CALDERARIA",
+        "09 - FORJARIA",
+        "10 - MANUT. USIN.",
+        "12 - AFIAÇÃO",
+        "14 - LABORATÓRIO",
+        "15 - VOLANTES",
+        "19 - CORTE MP",
+        "20 - REFORMA",
+        "21 - SEMI-EIXOS",
+        "24 - EXPEDIÇÃO",
+        "25 - LEILÃO",
+        "26 - MP"
+    ],
+    "6": [
+        ",",
+        "01 - USINAGEM",
+        "14 - LABORATÓRIO",
+        "15 - VOLANTES",
+        "16 - FUNDIÇÃO",
+        "17 - MAN. FUND.",
+        "25 - LEILÃO"
+    ],
+    "10": [
+        "18 - FÁBRICA 3",
+        "19 - CORTE MP"
+    ],
+    "11": [
+        "01 - USINAGEM",
+        "04 - RETÍFICA",
+        "06 - TRAT. TÉRMICO",
+        "09 - FORJARIA",
+        "14 - LABORATÓRIO",
+        "18 - FÁBRICA 3",
+        "19 - CORTE MP",
+        "25 - LEILÃO"
+    ]
+}
